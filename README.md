@@ -19,5 +19,6 @@
 
 6. [Adapter Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Adapter%20Pattern)
 
+7. [Composite Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Composite%20Pattern)
 
 ## Behavioral Patterns
