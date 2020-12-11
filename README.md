@@ -15,6 +15,9 @@
 5. [Prototype Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Creational%20Patterns/Prototype%20Pattern)
 
 
-## Behavioral Patterns
-
 ## Structural Patterns
+
+6. [Adapter Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Adapter%20Pattern)
+
+
+## Behavioral Patterns
