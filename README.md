@@ -21,4 +21,8 @@
 
 7. [Composite Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Composite%20Pattern)
 
+8. [Proxy Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Proxy%20Pattern)
+
+9. [Flyweight Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Flyweight%20Pattern)
+
 ## Behavioral Patterns
