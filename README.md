@@ -25,4 +25,6 @@
 
 9. [Flyweight Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Flyweight%20Pattern)
 
+10. [Facade Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Facade%20Pattern)
+
 ## Behavioral Patterns
