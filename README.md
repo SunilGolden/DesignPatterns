@@ -27,4 +27,6 @@
 
 10. [Facade Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Facade%20Pattern)
 
+11. [Bridge Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Bridge%20Pattern)
+
 ## Behavioral Patterns
