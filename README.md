@@ -29,4 +29,6 @@
 
 11. [Bridge Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Bridge%20Pattern)
 
+12. [Decorator Pattern](https://github.com/SunilGolden/DesignPatterns/tree/main/Structural%20Patterns/Decorator%20Pattern)
+
 ## Behavioral Patterns

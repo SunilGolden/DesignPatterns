@@ -93,6 +93,6 @@ public class FlyweightPatternDemo {
 
 	private static int getRandomY() {
 		return (int) (Math.random()*100);
-   }
+	}
 }
 ```
